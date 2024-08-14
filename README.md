@@ -1,21 +1,17 @@
-<p align="left" style="font-size: 1.5rem; color: #333;">
-  <b>Hey there! 👋</b>
-</p>
-<p align="left" style="font-size: 2.5rem; color: #111;">
-  <b>I am Himanshu Singh</b>
-</p>
-<p align="left" style="font-size: 1.25rem; color: #555;">
-  A Passionate Full Stack Developer from India
+<p align="center"><samp><b> Hey there! 👋 </b></samp></p>
+<p align="center"><h1 align="center"><samp> I am Himanshu Singh </samp></h1></p>
+<p align="center"><h4 align="center"><samp> A Passionate Full Stack Developer from India </samp></h4></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=himu25&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views"/> 
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=himu25&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-</p>
-
-<div align="left" style="margin-bottom: 1rem;">
+<div align="center">
+  <samp>
   🌱 I’m currently learning Data Structures and Algorithms.<br>
   💬 Ask me about React, Node.js, Express.js, and MongoDB.<br>
-  📫 How to reach me: <a href="mailto:himanshu638684@gmail.com" style="color: #1a73e8;">himanshu638684@gmail.com</a>.
+  📫 How to reach me: <a href="mailto:himanshu638684@gmail.com">himanshu638684@gmail.com</a>.
+  </samp>
 </div>
 
 <h4 align="left" style="font-weight: bold; color: #333;">Programming Languages</h4>
