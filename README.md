@@ -1,6 +1,9 @@
 <p align="center"><samp><b> Hey there! 👋 </b></samp></p>
 <p align="center"><h1 align="center"><samp> I am Himanshu Singh </samp></h1></p>
 <p align="center"><h4 align="center"><samp> A Passionate Full Stack Developer from India </samp></h4></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=himu25&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+</p>
 <br>
 <div>
 
