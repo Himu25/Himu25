@@ -1,31 +1,33 @@
-<p align="center"><samp><b> Hey there! 👋 </b></samp></p>
-<p align="center"><h1 align="center"><samp> I am Himanshu Singh </samp></h1></p>
-<p align="center"><h4 align="center"><samp> A Passionate Full Stack Developer from India </samp></h4></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himu25&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views"/> 
+<p align="left" style="font-size: 1.5rem; color: #333;">
+  <b>Hey there! 👋</b>
+</p>
+<p align="left" style="font-size: 2.5rem; color: #111;">
+  <b>I am Himanshu Singh</b>
+</p>
+<p align="left" style="font-size: 1.25rem; color: #555;">
+  A Passionate Full Stack Developer from India
 </p>
 
-<div align="center">
-  <samp>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=himu25&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+</p>
+
+<div align="left" style="margin-bottom: 1rem;">
   🌱 I’m currently learning Data Structures and Algorithms.<br>
   💬 Ask me about React, Node.js, Express.js, and MongoDB.<br>
-  📫 How to reach me: <a href="mailto:himanshu638684@gmail.com">himanshu638684@gmail.com</a>.
-  </samp>
+  📫 How to reach me: <a href="mailto:himanshu638684@gmail.com" style="color: #1a73e8;">himanshu638684@gmail.com</a>.
 </div>
 
-##
-
-<h4 align="center"><b><samp>Programming Languages</samp></b></h4>
-<p align="center">
+<h4 align="left" style="font-weight: bold; color: #333;">Programming Languages</h4>
+<p align="left">
   <img src="https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff" alt="Java"/>
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" alt="JavaScript"/>
 </p>
 
-<h4 align="center"><b><samp>Tools and Technologies</samp></b></h4>
-<p align="center">
+<h4 align="left" style="font-weight: bold; color: #333;">Tools and Technologies</h4>
+<p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
@@ -44,28 +46,23 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
 </p>
 
-##
-
-<h4 align="center"><b><samp>📊 My GitHub Stats</samp></b></h4>
-<br>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himu25&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak" style="display: inline-block; width: 45%;"/>
+<h4 align="left" style="font-weight: bold; color: #333;">📊 My GitHub Stats</h4>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himu25&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak" style="width: 100%; max-width: 700px;"/>
 </p>
 
-##
-
-<h4 align="center"><b><samp>Connect with me:</samp></b></h4>
-<p align="center">
-  <a href="mailto:himanshu638684@gmail.com">
+<h4 align="left" style="font-weight: bold; color: #333;">Connect with me:</h4>
+<p align="left">
+  <a href="mailto:himanshu638684@gmail.com" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/himanshu638684@gmail.com-0075c8?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/himanshu255">
+  <a href="https://www.linkedin.com/in/himanshu255" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Himanshu_Singh-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Himu25">
+  <a href="https://github.com/Himu25" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Himanshu_Singh-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://leetcode.com/yourleetcodeusername">
+  <a href="https://leetcode.com/yourleetcodeusername" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/yourgfgusername">
@@ -73,4 +70,6 @@
   </a>
 </p>
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Himu25)
+<p align="left">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Himu25" alt="Visitor Badge"/>
+</p>
