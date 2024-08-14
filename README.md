@@ -65,6 +65,3 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Himu25" alt="Visitor Badge"/>
-</p>
