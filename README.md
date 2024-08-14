@@ -1,109 +1,81 @@
-<h1 align="center">Hi 👋, I'm Himanshu Singh</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<p align="center"><samp><b> Hey there! 👋 </b></samp></p>
+<p align="center"><h1 align="center"><samp> I am Himanshu Singh </samp></h1></p>
+<p align="center"><h4 align="center"><samp> A Passionate Full Stack Developer from India </samp></h4></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himu25&label=Profile%20views&color=0e75b6&style=flat" alt="himu25" /> </p>
-<img align='right' alt='Developer' width='300px' src='https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966'>
-
-- 🌱 I’m currently learning **Data Structures and Algorithms**
-
-- 💬 Ask me about **React, Node.js, Express.js, MongoDB**
-
-- 📫 How to reach me **himanshu638684@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/himu25/" target="blank"><img align="center" src="https://img.shields.io/badge/-Himanshu%20Singh-blue?style=flat&logo=Linkedin&logoColor=white" alt="himu25" /></a>
-  <a href="https://leetcode.com/himu25/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" alt="himu25" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/himu25/profile" target="blank"><img align="center" src="https://img.shields.io/badge/-GeeksforGeeks-00C853?style=flat&logo=GeeksforGeeks&logoColor=white" alt="himu25" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=himu25&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views"/> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
-  </a> 
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
-  </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/> 
+<div align="center">
+  <samp>
+  🌱 I’m currently learning Data Structures and Algorithms.<br>
+  💬 Ask me about React, Node.js, Express.js, and MongoDB.<br>
+  📫 How to reach me: <a href="mailto:himanshu638684@gmail.com">himanshu638684@gmail.com</a>.
+  </samp>
+</div>
+
+##
+
+<h4 align="center"><b><samp>Programming Languages</samp></b></h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff" alt="Java"/>
+  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" alt="JavaScript"/>
+</p>
+
+<h4 align="center"><b><samp>Tools and Technologies</samp></b></h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=ant-design&logoColor=white" alt="Ant Design"/>
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" alt="Material-UI"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/CI/CD-000000?style=flat-square&logo=cirrus-ci&logoColor=white" alt="CI/CD"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+</p>
+
+##
+
+<details>
+  <summary><b><samp>📊 My GitHub Stats</samp></b></summary>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himu25&hide_langs_below=1&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=himu25&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himu25&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=himu25&count_private=true&show_icons=true&theme=vue-dark&hide_border=true&icon_color=bb2acf&bg_color=000000" alt="Total Commits"/>
+</p>
+</details>
+
+##
+
+<h4 align="center"><b><samp>Connect with me:</samp></b></h4>
+<p align="center">
+  <a href="mailto:himanshu638684@gmail.com">
+    <img src="https://img.shields.io/badge/himanshu638684@gmail.com-0075c8?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-  <a href="https://jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/himanshu255">
+    <img src="https://img.shields.io/badge/Himanshu_Singh-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github actions" width="40" height="40"/>
+  <a href="https://github.com/Himu25">
+    <img src="https://img.shields.io/badge/Himanshu_Singh-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/yourleetcodeusername">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/yourgfgusername">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himu25&show_icons=true&locale=en&layout=compact" alt="himu25" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himu25&show_icons=true&locale=en" alt="himu25" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himu25&" alt="himu25" /></p>
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Himu25)
