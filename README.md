@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=himu25&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views"/> 
 </p>
 
-<div align="center">
+<div align="left">
   <samp>
   🌱 I’m currently learning Data Structures and Algorithms.<br>
   💬 Ask me about React, Node.js, Express.js, and MongoDB.<br>
@@ -58,10 +58,10 @@
   <a href="https://github.com/Himu25" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Himanshu_Singh-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://leetcode.com/yourleetcodeusername" style="margin-right: 10px;">
+  <a href="https://leetcode.com/u/himanshu6386/" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/yourgfgusername">
+  <a href="https://www.geeksforgeeks.org/user/himanshuli0k/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
 </p>
