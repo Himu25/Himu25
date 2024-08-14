@@ -7,7 +7,6 @@
 <br>
 <div>
 
-- 🔭 <samp>I’m currently working on [Ultrasound Management Website](https://github.com/Himu25) for the Government of Una Himachal.
 - 🌱 <samp>I’m currently learning Data Structures and Algorithms.
 - 💬 <samp>Ask me about React, Node.js, Express.js, and MongoDB.
 - 📫 <samp>How to reach me: [himanshu638684@gmail.com](mailto:himanshu638684@gmail.com).
@@ -58,8 +57,7 @@
 <h4><b><samp>Connect with me:</samp></b></h4>
 
 [![Email](https://img.shields.io/badge/himanshu638684@gmail.com-0075c8?style=flat-square&logo=gmail&logoColor=white)](mailto:himanshu638684@gmail.com)
-[![Twitter](https://img.shields.io/badge/@HimanshuSingh-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)
-[![LinkedIn](https://img.shields.io/badge/Himanshu_Singh-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshusingh/)
+[![LinkedIn](https://img.shields.io/badge/Himanshu_Singh-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu255)
 [![GitHub](https://img.shields.io/badge/Himanshu_Singh-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Himu25)
 
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Himu25)
