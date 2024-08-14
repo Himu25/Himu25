@@ -6,7 +6,6 @@
 </p>
 <br>
 <div>
-
 - 🌱 <samp>I’m currently learning Data Structures and Algorithms.
 - 💬 <samp>Ask me about React, Node.js, Express.js, and MongoDB.
 - 📫 <samp>How to reach me: [himanshu638684@gmail.com](mailto:himanshu638684@gmail.com).
