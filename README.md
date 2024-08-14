@@ -46,16 +46,12 @@
 
 ##
 
-<details>
-  <summary><b><samp>📊 My GitHub Stats</samp></b></summary>
+<h4 align="center"><b><samp>📊 My GitHub Stats</samp></b></h4>
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himu25&hide_langs_below=1&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=himu25&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himu25&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=himu25&count_private=true&show_icons=true&theme=vue-dark&hide_border=true&icon_color=bb2acf&bg_color=000000" alt="Total Commits"/>
 </p>
-</details>
 
 ##
 
