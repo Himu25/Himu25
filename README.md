@@ -42,7 +42,6 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
 </p>
 
-<h4 align="left" style="font-weight: bold; color: #333;">📊 My GitHub Stats</h4>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himu25&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak" style="width: 100%; max-width: 700px;"/>
 </p>
