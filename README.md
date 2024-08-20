@@ -1,4 +1,26 @@
-<p align="center"><samp><b> Hey there! 👋 </b></samp></p>
+<p align="center"><samp><b> 
+  <span class="wave">Hey there! 👋</span>
+</b></samp></p>
+
+<style>
+  @keyframes wave-animation {
+    0% { transform: rotate(0deg); }
+    10% { transform: rotate(14deg); }
+    20% { transform: rotate(-8deg); }
+    30% { transform: rotate(14deg); }
+    40% { transform: rotate(-4deg); }
+    50% { transform: rotate(10deg); }
+    60% { transform: rotate(0deg); } 
+    100% { transform: rotate(0deg); }
+  }
+
+  .wave {
+    display: inline-block;
+    transform-origin: 70% 70%;
+    animation: wave-animation 1.5s infinite;
+  }
+</style>
+
 <p align="center"><h1 align="center"><samp> I am Himanshu Singh </samp></h1></p>
 <p align="center"><h4 align="center"><samp> A Passionate Full Stack Developer from India </samp></h4></p>
 
@@ -16,7 +38,7 @@
 
 <h4 align="left" style="font-weight: bold; color: #333;">Programming Languages</h4>
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff" alt="Java"/>
+   <img src="https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff" alt="Java"/>
   <img src="https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -45,11 +67,6 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-</p>
-
-<h4 align="left" style="font-weight: bold; color: #333;">GitHub Contributions</h4>
-<p align="center">
-  <img src="https://github.com/himu25/himu25/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 <p align="left">
