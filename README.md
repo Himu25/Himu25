@@ -1,26 +1,4 @@
-<p align="center"><samp><b> 
-  <span class="wave">Hey there! 👋</span>
-</b></samp></p>
-
-<style>
-  @keyframes wave-animation {
-    0% { transform: rotate(0deg); }
-    10% { transform: rotate(14deg); }
-    20% { transform: rotate(-8deg); }
-    30% { transform: rotate(14deg); }
-    40% { transform: rotate(-4deg); }
-    50% { transform: rotate(10deg); }
-    60% { transform: rotate(0deg); } 
-    100% { transform: rotate(0deg); }
-  }
-
-  .wave {
-    display: inline-block;
-    transform-origin: 70% 70%;
-    animation: wave-animation 1.5s infinite;
-  }
-</style>
-
+<p align="center"><samp><b> Hey there! 👋 </b></samp></p>
 <p align="center"><h1 align="center"><samp> I am Himanshu Singh </samp></h1></p>
 <p align="center"><h4 align="center"><samp> A Passionate Full Stack Developer from India </samp></h4></p>
 
