@@ -16,7 +16,7 @@
 
 <h4 align="left" style="font-weight: bold; color: #333;">Programming Languages</h4>
 <p align="left">
-   <img src="https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff" alt="Java"/>
+  <img src="https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff" alt="Java"/>
   <img src="https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -47,6 +47,11 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
+<h4 align="left" style="font-weight: bold; color: #333;">GitHub Contributions</h4>
+<p align="center">
+  <img src="https://github.com/himu25/himu25/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himu25&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak" style="width: 100%; max-width: 700px;"/>
 </p>
@@ -69,4 +74,3 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
 </p>
-
