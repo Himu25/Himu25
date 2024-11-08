@@ -47,9 +47,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himu25&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak" style="width: 100%; max-width: 700px;"/>
-</p>
 
 <h4 align="left" style="font-weight: bold; color: #333;">Connect with me:</h4>
 <p align="left">
